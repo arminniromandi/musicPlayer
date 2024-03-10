@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#06142E</color>
+    <color name="text_color">#f4f5fc</color>
+    <color name="back_recycler">#1B3358</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="seek_bar_background">#ababab</color>
+    <color name="seek_bar_progress">#1E88E5</color>
+    <color name="seek_bar_secondary_progress">#3399CC</color>
+    <color name="view_back">#270485</color>
+    <color name="text_color2">#A2A2A3</color>
+</resources>

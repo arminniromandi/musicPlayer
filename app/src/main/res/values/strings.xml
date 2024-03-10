@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">musicPlayer</string>
+    <string name="todo">todo</string>
+    <string name="last_listening">last listening</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="palying">palying</string>
+    <string name="music">music</string>
+    <string name="music_player">MUSIC PLAYER</string>
+    <string name="play">play</string>
+    <string name="favorite">favorite</string>
+    <string name="trackdetails">trackDetails</string>
+    <string name="delete">delete</string>
+    <string name="like">like</string>
+</resources>
